@@ -18,12 +18,17 @@ Hi I'm Kaijing Ma, a master Student of [`Xi'an Jiaotong University`](http://en.x
 ### Research Intern, **TeleAI**, China Telecom  <span style="float:right;">Sep. 2023 - Present</span>
 - Work on projects related to controllable text-to-image generation and video temporal grounding.
 - Contributed to [**TeleAGI**](https://www.teleagi.cn/).
+
 ---
+
 ### Master, **Xi'an Jiaotong University** <span style="float:right;">Sep. 2022 - Present</span>
 - Master's Student specializing in Artificial Intelligence
+
 ---
+
 ### Undergraduate, **Minzu University of China** <span style="float:right;">Sep. 2018 - Jun. 2022</span>
 - Bachelor's degree in Electronic Engineering.
+
 ---
 
 ## **News**
