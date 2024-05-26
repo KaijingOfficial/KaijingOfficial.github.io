@@ -1,7 +1,7 @@
 # Basic Information 
 title: Kaijing Ma / 马凯晶
 position: Master Student
-affiliation: Xi'an Jiaotong University
+affiliation: [Xi'an Jiaotong University](http://en.xjtu.edu.cn/)
 email: xjtumakaijing [at] gmail.com
 
 # Search Engine Optimization (SEO)
@@ -20,7 +20,7 @@ github_link: https://github.com/KaijingOfficial/
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/pexel.png
+avatar: ./assets/img/pixel.png
 # favicon: ./assets/img/favicon.png
 # favicon_dark: ./assets/img/favicon-dark.png
 
