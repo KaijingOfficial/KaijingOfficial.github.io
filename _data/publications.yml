@@ -3,9 +3,9 @@ main:
   - title: "LLaViLo: Boosting Video Moment Retrieval via Adapter-Based Multimodal Modeling"
     authors: <strong>Kaijing Ma*</strong>, Xianghao Zang*, Zerun Feng, Han Fang, Chao Ban, Yuhan Wei, Zhongjiang He, Yongxiang Li, Hao Sun† (†Corresponding authors,*Equal contribution)
     conference_short: ICCV Workshop
-    conference: IEEE/CVF International Conference on Computer Vision <strong>(ICCW workshop)</strong>, 2023.
+    conference: IEEE/CVF International Conference on Computer Vision <strong>(ICCV workshop)</strong>, 2023.
     pdf: https://openaccess.thecvf.com/content/ICCV2023W/CLVL/papers/Ma_LLaViLo_Boosting_Video_Moment_Retrieval_via_Adapter-Based_Multimodal_Modeling_ICCVW_2023_paper.pdf
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:LThXTIvKt9wJ:scholar.google.com/&output=citation&scisdr=ClGd-Hx8ELrv8OIpMwQ:AFWwaeYAAAAAZlMvKwSZwPyzrZIGIrnvt4VaUjw&scisig=AFWwaeYAAAAAZlMvK55TJVoM19ne5SbNsUS3oVo&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:LThXTIvKt9wJ:scholar.google.com/&output=citation&scisdr=ClGd-Hx8ELrv8OI0z2E:AFWwaeYAAAAAZlMy12Hijr2J-Z_DH6W0Tf5BtHs&scisig=AFWwaeYAAAAAZlMy16X9pGYr6VrW4WZXH3WuLgg&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/teaser_iccvw.png
 
   - title: "Disentangle and Denoise: Tackling Context Misalignment for Video Moment Retrieval"
@@ -18,3 +18,5 @@ main:
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Oral Presentation
     image: ./assets/img/teaser_icme.png
+
+    
