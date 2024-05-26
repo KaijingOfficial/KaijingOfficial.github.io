@@ -3,19 +3,18 @@ main:
   - title: "LLaViLo: Boosting Video Moment Retrieval via Adapter-Based Multimodal Modeling"
     authors: <strong>Kaijing Ma</strong>, Xianghao Zang, Zerun Feng, Han Fang, Chao Ban, Yuhan Wei, Zhongjiang He, Yongxiang Li, Hao Sun* (*Corresponding authors)
     conference_short: ICCV Workshop
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
+    conference: IEEE/CVF International Conference on Computer Vision <strong>(ICCW workshop)</strong>, 2023.
+    pdf: https://openaccess.thecvf.com/content/ICCV2023W/CLVL/papers/Ma_LLaViLo_Boosting_Video_Moment_Retrieval_via_Adapter-Based_Multimodal_Modeling_ICCVW_2023_paper.pdf
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:LThXTIvKt9wJ:scholar.google.com/&output=citation&scisdr=ClGd-Hx8ELrv8OIpMwQ:AFWwaeYAAAAAZlMvKwSZwPyzrZIGIrnvt4VaUjw&scisig=AFWwaeYAAAAAZlMvK55TJVoM19ne5SbNsUS3oVo&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/teaser_example_2.png
 
   - title: "Disentangle and Denoise: Tackling Context Misalignment for Video Moment Retrieval"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    authors: <strong>Kaijing Ma</strong>, Han Fang, Xianghao Zang, Chao Ban, Lanxiang Zhou, Zhongjiang He，Yongxiang Li, Hao Sun, Zerun Feng, Xingsong Hou1*
+    conference_short: ICME
+    conference: IEEE International Conference on Multimedia and Expo <strong>(ICME)</strong>, 2024.
+    # pdf: https://arxiv.org/pdf/2002.10211.pdf
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Oral Presentation
     image: ./assets/img/teaser_example.png
