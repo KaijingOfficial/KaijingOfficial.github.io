@@ -4,7 +4,7 @@ layout: homepage
 
 ## **About Me**
 
-Hi I'm Kaijing Ma, a master Student of [`Xi'an Jiaotong University`](http://en.xjtu.edu.cn/). I am currently interning at  [`TeleAI`](teleagi.cn). I am seeking a PhD position for the fall of 2025.
+Hi I'm Kaijing Ma, a master Student of [`Xi'an Jiaotong University`](http://en.xjtu.edu.cn/). I am currently interning at  [`TeleAI`](https://teleagi.cn). I am seeking a PhD position for the fall of 2025.
 
 ## **Research Interests**
 
