@@ -17,7 +17,7 @@ Hi I'm Kaijing Ma, a master Student of [**Xi'an Jiaotong University**](http://en
 ---
 ### Research Intern, **TeleAI**, China Telecom  <span style="float:right;">Sep. 2023 - Present</span>
 - Work on projects related to controllable text-to-image generation and video temporal grounding.
-- Contributed to [**TeleAGI**](https://www.teleagi.cn/).
+- Contributed to [**TeleAIGC**](https://www.teleagi.cn:10443/child-aigc/starMapGallery).
 
 ---
 
