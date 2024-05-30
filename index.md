@@ -38,4 +38,7 @@ Hi I'm Kaijing Ma, a master Student of [`Xi'an Jiaotong University`](http://en.x
 
 {% include_relative _includes/publications.md %}
 
+
+{% include_relative _includes/contact.md %}
+
 <!-- {% include_relative _includes/services.md %} -->
