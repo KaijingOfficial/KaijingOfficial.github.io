@@ -32,6 +32,8 @@ Hi, I'm Kaijing Ma, a master Student of [**Xi'an Jiaotong University**](http://e
 ---
 
 ## **🔥News**
+
+- **[Jul. 2024]** One paper about layout-to-image is accepted to ACM MM 2024.
 - **[Jul. 2023]** Our paper about moment retrieval is accepted to ICCV Workshop 2023.
 - **[Mar. 2024]** Our paper about moment retrieval is accepted as oral papers in ICME 2024.
 
