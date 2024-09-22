@@ -3,8 +3,7 @@ layout: about
 title: About
 permalink: /
 subtitle: >
-  Research Intern <a href="https://www.teleagi.cn">@TeleAI</a>, Master Student <a href="http://en.xjtu.edu.cn/">@XJTU</a>
-#  Incoming PhD Student <a href="https://www.nju.edu.cn/en">@NJU</a>
+  Research Intern <a href="https://www.teleagi.cn">@TeleAI</a>, Master Student <a href="http://en.xjtu.edu.cn/">@XJTU</a>, Incoming PhD Student <a href="">@SomeWhere📌</a>
 
 
 profile:
@@ -46,5 +45,5 @@ I'm a Research Intern at **[TeleAI](https://www.teleagi.cn)** and a master stude
 
 At TeleAI, I focus on developing state-of-the-art multimodal understanding and generation models, such as Video Temporal Grounding and controllable AIGC systems. Our team is led by IEEE Fellow **[Xuelong Li](https://scholar.google.com/citations?user=ahUibskAAAAJ&hl=en)**, who is also the CTO and Chief Scientist of **[China Telecom](https://www.chinatelecomglobal.com/)**.
 
-<blockquote>I am seeking a PhD position for the fall of 2025.</blockquote>
+<blockquote>📌 I am seeking a PhD position for the fall of 2025.</blockquote>
 
