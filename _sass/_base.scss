@@ -194,16 +194,27 @@ ul.task-list input[type="checkbox"] {
 
 .profile {
   width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* 水平居中 */
+}
 
-  .more-info {
-    margin-bottom: 5px;
-    margin-top: 5px;
-    font-family: monospace;
+.more-info {
+  display: flex; /* 使用 flexbox 布局 */
+  justify-content: center; /* 水平居中对齐 */
+  align-items: center; /* 垂直居中对齐 */
+  margin-bottom: 5px;
+  margin-top: 5px;
+  font-family: monospace;
 
-    p {
-      display: inline-block;
-      margin: 0;
-    }
+  p {
+    display: inline-block;
+    margin: 0;
+  }
+
+  a {
+    margin-left: 10px; /* 给每个图标一些间距 */
+    margin-right: 10px;
   }
 }
 
@@ -246,13 +257,13 @@ ul.task-list input[type="checkbox"] {
 .navbar {
   box-shadow: none;
   border-bottom: 1px solid var(--global-divider-color);
-  background-color: var(--global-bg-color);
+  background-color: var(--navbar-color);
   opacity: 0.95;
 }
 
 .navbar .dropdown-menu {
   background-color: var(--global-bg-color);
-  border: 1px solid var(--global-divider-color);
+  border: 1px solid var(--navbar-color);
 
   a:not(.active) {
     color: var(--global-text-color);
@@ -268,7 +279,7 @@ ul.task-list input[type="checkbox"] {
 }
 
 .dropdown-item {
-  color: var(--global-text-color);
+  color: var(--navbar-text-color);
 
   &:hover {
     color: var(--global-hover-color);
@@ -284,11 +295,11 @@ ul.task-list input[type="checkbox"] {
   }
 
   .navbar-brand {
-    color: var(--global-text-color);
+    color: var(--navbar-text-color);
   }
 
   .navbar-nav .nav-item .nav-link {
-    color: var(--global-text-color);
+    color: var(--navbar-text-color-light);
 
     &:hover {
       color: var(--global-hover-color);
@@ -298,7 +309,7 @@ ul.task-list input[type="checkbox"] {
   .navbar-nav .nav-item.active > .nav-link {
     background-color: inherit;
     font-weight: bolder;
-    color: var(--global-theme-color);
+    color: var(--navbar-text-color);
 
     &:hover {
       color: var(--global-hover-color);
