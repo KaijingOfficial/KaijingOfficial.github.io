@@ -36,14 +36,16 @@ social: false # includes social icons at the bottom of the page
 
 ---
 
-**_"The true sign of intelligence is not knowledge but imagination."_**  
-<div style="text-align: right;">&mdash; Albert Einstein</div>
+**_"The future is already here – it's just not evenly distributed."_**  
+<div style="text-align: right;">&mdash; William Gibson</div>
 ---
-<!-- <blockquote>"The true sign of intelligence is not knowledge but imagination." – Albert Einstein</blockquote> -->
+<!-- <blockquote>“The future is already here – it's just not evenly distributed.” ― William Gibson</blockquote> -->
 
-I'm a Research Intern at **[TeleAI](https://www.teleagi.cn)** and a master student at **[Xi'an Jiaotong University](https://www.xjtu.edu.cn)**. During my master's program, I was jointly supervised by Professor **Xingsong Hou** at XJTU and Professor **Hao Sun** at TeleAI.
+As a master's student, I am enrolled in a joint training program at **[Xi'an Jiaotong University](https://www.xjtu.edu.cn)** and **[TeleAI](https://www.teleagi.cn)**. My master's studies are supervised collaboratively by Professor **Xingsong Hou** from XJTU and Professor **Hao Sun** from TeleAI.
 
-At TeleAI, I focus on developing state-of-the-art multimodal understanding and generation models, such as Video Temporal Grounding and controllable AIGC systems. Our team is led by IEEE Fellow **[Xuelong Li](https://scholar.google.com/citations?user=ahUibskAAAAJ&hl=en)**, who is also the CTO and Chief Scientist of **[China Telecom](https://www.chinatelecomglobal.com/)**.
+At TeleAI, I focus on building state-of-the-art multimodal understanding and generation models, such as Video Temporal Grounding and controllable AIGC systems. For example, we have released **星辰多模态大模型** as a competitive text-to-image generation product for the public. Our team is led by IEEE Fellow **[Xuelong Li](https://scholar.google.com/citations?user=ahUibskAAAAJ&hl=en)**, who is also the CTO and Chief Scientist of **[China Telecom](https://www.chinatelecomglobal.com/)**.
+
+I am currently interning at **[Shanghai AI Laboratory](https://www.shlab.org.cn/)**, focusing on embodied intelligence, a field with transformative potential for the future of AI. I am committed to a long-term career in robotics, aiming to develop a groundbreaking autonomous robot system that can interact with the physical world as naturally as ChatGPT interacts with language.
 
 <blockquote>📢 I am seeking a PhD position for the fall of 2025.</blockquote>
 
