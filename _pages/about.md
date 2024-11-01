@@ -3,7 +3,10 @@ layout: about
 title: About
 permalink: /
 subtitle: >
-   Internship <a href="https://www.shlab.org.cn/">@Shanghai AI Lab</a>, Master <a href="http://en.xjtu.edu.cn/">@XJTU</a> with <a href="https://www.teleagi.cn">@TeleAI</a>, Incoming PhD Student <a href="">@❓<sup>📢</sup></a>
+   Internship <a href="https://www.shlab.org.cn/">@Shanghai AI Lab<img src="assets/img/ailab.png" alt="logo of shailab" style="display:inline; width:30px; height:20px;"></a>, <br>
+   Master student <a href="http://en.xjtu.edu.cn/">@XJTU<img src="assets/img/a4-2xbred.png" alt="logo of xjtu" style="display:inline; width:65px; height:20px;"></a> with <a href="https://www.teleagi.cn">@TeleAI<img src="assets/img/teleai.png" alt="logo of TeleAI" style="display:inline; width:20px; height:20px;"></a>, <br>
+   Incoming PhD Student <a href="">@SomeWhere<sup>📢</sup></a> 
+
 
 
 profile:
@@ -47,5 +50,5 @@ At TeleAI, I focus on building state-of-the-art multimodal understanding and gen
 
 I am currently interning at **[Shanghai AI Laboratory](https://www.shlab.org.cn/)**, focusing on embodied intelligence, a field with transformative potential for the future of AI. I am committed to a long-term career in robotics, aiming to develop a groundbreaking autonomous robot system that can interact with the physical world as naturally as ChatGPT interacts with language.
 
-<blockquote>📢 I am seeking a PhD position for the fall of 2025.</blockquote>
+<blockquote>📢 I am seeking a PhD position for the fall of 2025.🥺😭</blockquote>
 
