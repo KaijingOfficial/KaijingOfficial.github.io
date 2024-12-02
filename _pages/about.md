@@ -5,7 +5,7 @@ permalink: /
 subtitle: >
    Internship <a href="https://www.shlab.org.cn/">@Shanghai AI Lab <img src="assets/img/ailab.png" alt="logo of shailab" style="display:inline; width:30px; height:20px;"></a>, <br>
    Master student <a href="http://en.xjtu.edu.cn/">@XJTU <img src="assets/img/a4-2xbred.png" alt="logo of xjtu" style="display:inline; width:70px; height:20px;"></a> with <a href="https://www.teleagi.cn">@TeleAI <img src="assets/img/teleai.png" alt="logo of TeleAI" style="display:inline; width:20px; height:20px;"></a>, <br>
-   Incoming PhD Student <a href="https://www.fudan.edu.cn/en/">@FDU</a> 🎉
+   Incoming PhD Student @FDU
 
 
 
