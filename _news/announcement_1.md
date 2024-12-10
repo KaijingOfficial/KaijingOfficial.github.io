@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper about moment retrieval is accepted to ICCV Workshop 2023.
+Our paper about moment retrieval hsa been accepted by ICCV Workshop 2023.
