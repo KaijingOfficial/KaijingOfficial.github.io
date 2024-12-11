@@ -43,11 +43,10 @@ social: false # includes social icons at the bottom of the page
 
 ---
 <!-- <blockquote>“The future is already here – it's just not evenly distributed.” ― William Gibson</blockquote> -->
+Currently, I am interning at <a href="https://openrobotlab.org.cn/"><img src="assets/img/robot_log_dark.png" alt="logo of robotlab" style="display:inline; width:120px; height:25px; vertical-align: top;"></a>, working with Prof.**[Tong He](https://tonghe90.github.io/)**. We are a young team attached to **[Shanghai AI Laboratory](https://www.shlab.org.cn/)**, focusing on Embodied AI. I have a strong belief in developing Foundation Embodied AI Models with zero-shot cross-embodiment capabilities.
 
-As a master's student, I am enrolled in a joint training program at **[Xi'an Jiaotong University](https://www.xjtu.edu.cn)** and **[TeleAI](https://www.teleagi.cn)**. My master's studies are supervised collaboratively by Professor **Xingsong Hou** from XJTU and Professor **Hao Sun** from TeleAI.
+Before at 2022, I'm enrolled in a Masters Industry Co-Op Education Program (**[Xi'an Jiaotong University](https://www.xjtu.edu.cn)** & **[TeleAI](https://www.teleagi.cn)**). At TeleAI, I focus on building state-of-the-art multimodal understanding and generation models, such as Video Temporal Grounding and controllable text-to-image models. For example, we bring ***星辰多模态大模型*** as a competitive text-to-image generation product for the public. Our team is led by Prof.**[Xuelong Li](https://scholar.google.com/citations?user=ahUibskAAAAJ&hl=en)**, who is also the CTO and Chief Scientist of **[China Telecom](https://www.chinatelecomglobal.com/)**.
 
-At TeleAI, I focus on building state-of-the-art multimodal understanding and generation models, such as Video Temporal Grounding and controllable AIGC systems. For example, we have released ***星辰多模态大模型*** as a competitive text-to-image generation product for the public. Our team is led by IEEE Fellow **[Xuelong Li](https://scholar.google.com/citations?user=ahUibskAAAAJ&hl=en)**, who is also the CTO and Chief Scientist of **[China Telecom](https://www.chinatelecomglobal.com/)**.
 
-Currently, I am interning at <a href="https://openrobotlab.org.cn/"><img src="assets/img/robot_log_dark.png" alt="logo of robotlab" style="display:inline; width:120px; height:25px; vertical-align: top;"></a>, under the supervision of Prof.**[Tong He](https://tonghe90.github.io/)**. We are a young team attached to **[Shanghai AI Laboratory](https://www.shlab.org.cn/)**, focusing on Embodied AI. I have a strong belief in developing Foundation Embodied AI Models with zero-shot cross-embodiment capabilities.
 
 
