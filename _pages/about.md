@@ -4,7 +4,7 @@ title: About
 permalink: /
 subtitle: >
    Internship <a href="https://www.shlab.org.cn/">@Shanghai AI Lab <img src="assets/img/ailab.png" alt="logo of shailab" style="display:inline; width:30px; height:20px;"></a>, <br>
-   Master student <a href="http://en.xjtu.edu.cn/">@XJTU <img src="assets/img/a4-2xbred.png" alt="logo of xjtu" style="display:inline; width:70px; height:20px;"></a> with <a href="https://www.teleagi.cn">@TeleAI <img src="assets/img/teleai.png" alt="logo of TeleAI" style="display:inline; width:20px; height:20px;"></a>, <br>
+   Master student <a href="http://en.xjtu.edu.cn/">@XJTU <img src="assets/img/a4-2xbred.png" alt="logo of xjtu" style="display:inline; width:70px; height:20px;"></a> & <a href="https://ai.teleagi.cn/modelExperienceCenter">@TeleAI <img src="assets/img/teleai.png" alt="logo of TeleAI" style="display:inline; width:20px; height:20px;"></a>, <br>
    Incoming PhD Student @FDU
 
 
@@ -43,10 +43,11 @@ social: false # includes social icons at the bottom of the page
 
 ---
 <!-- <blockquote>“The future is already here – it's just not evenly distributed.” ― William Gibson</blockquote> -->
-Currently, I am interning at <a href="https://openrobotlab.org.cn/"><img src="assets/img/robot_log_dark.png" alt="logo of robotlab" style="display:inline; width:120px; height:25px; vertical-align: top;"></a>, working with Prof.**[Tong He](https://tonghe90.github.io/)**. We are a young team attached to **[Shanghai AI Laboratory](https://www.shlab.org.cn/)**, focusing on Embodied AI. I have a strong belief in developing Foundation Embodied AI Models with zero-shot cross-embodiment capabilities.
+Hi there! ☺️
 
-Before at 2022, I'm enrolled in a Masters Industry Co-Op Education Program (**[Xi'an Jiaotong University](https://www.xjtu.edu.cn)** & **[TeleAI](https://www.teleagi.cn)**). At TeleAI, I focus on building state-of-the-art multimodal understanding and generation models, such as Video Temporal Grounding and controllable text-to-image models. For example, we bring ***星辰多模态大模型*** as a competitive text-to-image generation product for the public. Our team is led by Prof.**[Xuelong Li](https://scholar.google.com/citations?user=ahUibskAAAAJ&hl=en)**, who is also the CTO and Chief Scientist of **[China Telecom](https://www.chinatelecomglobal.com/)**.
+My name is Kaijing. Currently, I am interning at **Embodied AI Center**@**[Shanghai AI Laboratory](https://www.shlab.org.cn/)**, working with Prof.**[Tong He](https://tonghe90.github.io/)**. We are a young team focusing on Robotics. I have a strong belief in developing Foundation Embodied AI Models with zero-shot cross-embodiment capabilities.
 
+Back in 2022, I was enrolled in a Masters Industry Co-Op Education Program between **[Xi'an Jiaotong University](https://www.xjtu.edu.cn)** and **[TeleAI](https://ai.teleagi.cn/modelExperienceCenter)**. At TeleAI, I focus on building state-of-the-art multimodal understanding and generation models, such as Video Temporal Grounding and controllable text-to-image models. For example, we have launched **[TeleImage](https://ai.teleagi.cn/teleImage/#/home)** (aka: *星辰多模态大模型*), an advanced text-to-image generation product for the public. Our team is led by Prof.**[Xuelong Li](https://scholar.google.com/citations?user=ahUibskAAAAJ&hl=en)**, who is also the CTO and Chief Scientist of **[China Telecom](https://www.chinatelecomglobal.com/)**.
 
 
 
